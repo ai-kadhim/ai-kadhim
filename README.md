@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi there 👋, I'm Ali</h1>
-<h3 align="center">A passionate Machine Learning and MLOps advocate and community builder!</h3>
+<h3 align="center">MLOps Lead | LLMOps advocate | Prompt Engineer</h3>
 
 
 
