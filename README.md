@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **MLOps Community Building**
 
-- 📝 Checkout my latest ideas [https://www.linkedin.com/in/ali-h-kadhim/recent-activity/shares/](https://www.linkedin.com/in/ali-h-kadhim/recent-activity/shares/)
+- 📝 Checkout my latest ideas [https://www.linkedin.com/in/ai-kadhim/recent-activity/shares/](https://www.linkedin.com/in/ali-h-kadhim/recent-activity/shares/)
 
 - 💬 Ask me about **AI/ML, MLOps, Deployment, Monitoring, Scaling**
 
